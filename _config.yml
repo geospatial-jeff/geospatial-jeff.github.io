@@ -1,7 +1,7 @@
 # Site
 title:              Cognition Framework
-bio:                'Event-based serverless architecture for ingesting, analyzing, and visualizing geospatial data at scale'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+bio:                'Build event-based serverless architectures for ingesting, analyzing, and visualizing geospatial data at scale'
+description:        "Build event-based serverless architectures for ingesting, analyzing, and visualizing geospatial data at scale"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/cognition-logo.png'
@@ -38,19 +38,19 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         username
+#twitter:            username
+#facebook:           username
+github-url:         https://github.com/geospatial-jeff
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          https://www.linkedin.com/in/jeff-albrecht-5a2b86148/
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel

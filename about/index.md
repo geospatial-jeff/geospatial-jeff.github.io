@@ -1,37 +1,24 @@
 ---
 layout: page
-title: About the Theme
+title: About Cognition
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+date: 2018-11-29
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+
+**Cognition** is a set of tools for building customizable cloud-based serverless architectures for
+serving and analyzing raster data (and eventually vector) from cloud data stores.  The architecture leverages the interoperability and efficiency of Cloud Optimized GeoTIFF's stored in a spatially cognizant flat file structure to create efficent patterns of access to the underlying data.  
+
+## Goals
+* Enable sensor-level and product-level data fusion.
+* Enable on the fly geo-processing and image-processing.
+* Enable ingest and metadata handling of common datasources (Landsat, Sentinel etc.).
+* Enable visualization of geospatial datasets.
 
 ## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
-
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+* Deployed with [Serverless Framework](https://serverless.com/) (AWS Lambda/SNS/SQS).
+* [Cloud Optimized GeoTiff](http://www.cogeo.org/)
+* [STAC](https://github.com/radiantearth/stac-spec) Compliant
 
 ## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+Coming soon...
