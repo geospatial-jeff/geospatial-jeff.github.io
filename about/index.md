@@ -14,6 +14,7 @@ serving and analyzing raster data (and eventually vector) from cloud data stores
 * Enable on the fly geo-processing and image-processing.
 * Enable ingest and metadata handling of common datasources (Landsat, Sentinel etc.).
 * Enable visualization of geospatial datasets.
+* Interoperability with other cloud data stores.
 
 ## Features
 * Deployed with [Serverless Framework](https://serverless.com/) (AWS Lambda/SNS/SQS).
